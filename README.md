@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm front-end developer
 
-# ds
-<h1>Skill<h1>
+
+# Skill
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
