@@ -3,7 +3,7 @@
 
 Create React App
 
-<img src="https://img.shields.io/badge/Create React App-#09D3AC?style=flat-square&logo=Create React App&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/CreateReactApp-#09D3AC?style=flat-square&logo=CreateReactApp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <!--
 **rbsss2/rbsss2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
